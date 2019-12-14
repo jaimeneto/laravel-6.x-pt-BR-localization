@@ -1,4 +1,4 @@
-# Arquivos de linguagem em Português do Brasil (pt-BR) para Laravel 6.x
+# Arquivos de idioma em Português do Brasil (pt-BR) para Laravel 6.x
 
 Essa tradução foi atualizada a partir do conteúdo disponibilizado por lucascudo neste link:
 https://github.com/lucascudo/laravel-pt-br-localization.git
@@ -15,7 +15,7 @@ https://github.com/lucascudo/laravel-pt-br-localization.git
   ```
   $ rm -r pt-BR/.git/
   ```
-3. Configurar o Framework para utilizar 'pt-BR' como linguagem padrão
+3. Configurar o Framework para utilizar 'pt-BR' como idioma padrão
   ```
   // Altere Linha 83 do arquivo config/app.php para:
   'locale' => 'pt-BR',
