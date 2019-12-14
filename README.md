@@ -8,7 +8,7 @@ https://github.com/lucascudo/laravel-pt-br-localization.git
 1. Clonar este projeto para uma pasta dentro de 
   ```
   $ cd resources/lang/
-  $ git clone https://github.com/jaimeneto/laravel-pt-br-localization.git ./pt-BR
+  $ git clone https://github.com/jaimeneto/laravel-6.x-pt-BR-localization ./pt-BR
   ```
 2. Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
 
