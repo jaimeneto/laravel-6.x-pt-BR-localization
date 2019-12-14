@@ -5,17 +5,17 @@ https://github.com/lucascudo/laravel-pt-br-localization.git
 
 ## Instalação
 
-1. Clonar este projeto para uma pasta dentro de 
+1. Clonar este projeto para uma pasta dentro de resources/lang/:
   ```
   $ cd resources/lang/
   $ git clone https://github.com/jaimeneto/laravel-6.x-pt-BR-localization ./pt-BR
   ```
-2. Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório.
+2. Você pode remover o diretório .git para poder incluir e versionar os arquivos deste projeto no seu repositório:
 
   ```
   $ rm -r pt-BR/.git/
   ```
-3. Configurar o Framework para utilizar 'pt-BR' como idioma padrão
+3. Configurar o Framework para utilizar 'pt-BR' como idioma padrão:
   ```
   // Altere Linha 83 do arquivo config/app.php para:
   'locale' => 'pt-BR',
